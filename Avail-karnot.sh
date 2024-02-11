@@ -38,6 +38,7 @@ sudo apt install pkg-config -y
 sudo apt install libssl-dev -y
 sudo apt install clang -y
 sudo apt install protobuf-compiler -y
+sudo apt install screen -y
 
 # 第6部分：安装和配置Madara-CLI
 echo "克隆Madara-CLI仓库并进行设置..."
